@@ -1,0 +1,4 @@
+build
+*.lock
+.idea
+node_modules

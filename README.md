@@ -1,1 +1,1 @@
-# nikoloz-bregvadze-personal-project-typescript
+# Typescript Personal Project (For TBC IT Academy Bootcamp)
